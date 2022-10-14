@@ -3,8 +3,8 @@ You are a Data Scientist working for a consulting ﬁrm. One of your colleagues 
 
 # Your task is to calculate the following ﬁnancial metrics:
 1. proﬁt for each month
-2. proﬁt after tax for each month (the tax r ate is 30%)
-3. proﬁt mar gin for each month - equals to proﬁt after tax divided by revenue
+2. proﬁt after tax for each month (the tax rate is 30%)
+3. proﬁt margin for each month - equals to proﬁt after tax divided by revenue
 4. good months - where the proﬁt after tax was greater than the mean for the year 
 5. bad months - where the proﬁt after tax was less than the mean for the year
 6. the best month - where the proﬁt after tax was max for the year
